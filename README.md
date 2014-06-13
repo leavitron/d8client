@@ -8,6 +8,7 @@ This is a project associated with this blog post: http://www.koberg.com/2014/06/
 There is nothing in the master branch yet -- only develop. Clone, fork, or download and then once inside the directory:
 
 ```
+$ git flow init
 $ git checkout develop
 $ npm install
 $ bower install
