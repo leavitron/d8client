@@ -9,7 +9,7 @@ There is nothing in the master branch yet -- only develop. Clone, fork, or downl
 
 ```
 $ git flow init
-$ git checkout develop
+$ git pull origin develop
 $ npm install
 $ bower install
 ```
